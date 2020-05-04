@@ -1,0 +1,21 @@
+5
+
+P
+4
+Moderate Extreme None Mild
+
+Q
+2
+F T
+
+R
+2
+F T
+
+S
+2
+F T
+
+Func
+2
+F T

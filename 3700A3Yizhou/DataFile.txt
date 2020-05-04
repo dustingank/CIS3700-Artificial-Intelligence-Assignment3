@@ -1,0 +1,12 @@
+P Q R S Func
+Moderate T F F T
+Extreme T F T T
+None T T F F
+Mild T T T T
+Moderate F F F F
+Mild F F T T
+Moderate T F F F
+Mild T F T T
+Extreme T F F F
+Extreme T F T F
+Mild T T F T

@@ -1,0 +1,21 @@
+5
+
+income
+3
+<$15K $15-35K >$35K
+
+collateral
+2
+ADEQUATE NONE
+
+debt
+2
+HIGH LOW
+
+creditHis
+3
+BAD GOOD UNKNOWN
+
+risk
+3
+HIGH MODERATE LOW
